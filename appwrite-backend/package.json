@@ -1,0 +1,13 @@
+{
+  "name": "secure-login-appwrite-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "seed": "node seed-appwrite.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-appwrite": "^14.1.0"
+  }
+}
